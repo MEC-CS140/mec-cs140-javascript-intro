@@ -19,5 +19,5 @@ When the script runs, you should see:
 
 ### **Submission Instructions**
 1. Write your code in `script.js`.
-2. Commit and Sync code
-4. Submit your repo  link in Brightspace.
+2. Download code
+4. Submit your repo files in Brightspace.
